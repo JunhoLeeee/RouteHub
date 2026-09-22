@@ -1,0 +1,18 @@
+API 목록
+
+
+GET
+/GetStrtpntAlocFndTrainInfo
+출/도착지기반열차정보 조회
+
+GET
+/GetCtyAcctoTrainSttnList
+시/도별 기차역 목록조회
+
+GET
+/GetVhcleKndList
+차량종류 목록 조회
+
+GET
+/GetCtyCodeList
+도시코드 목록 조회
